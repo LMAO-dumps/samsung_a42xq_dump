@@ -1,0 +1,6 @@
+/vendor/lib/modules/llcc_perfmon.ko:
+/vendor/lib/modules/mpq-adapter.ko:
+/vendor/lib/modules/rdbg.ko:
+/vendor/lib/modules/rmnet_perf.ko:
+/vendor/lib/modules/mpq-dmx-hw-plugin.ko: /vendor/lib/modules/mpq-adapter.ko
+/vendor/lib/modules/rmnet_shs.ko:
